@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de Tabla</title>
+    <link rel="stylesheet" href="estilos/estilos.css">	
+    
+</head>
+<body>
+    <header class="main-header">
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="acercade.html">Camperas Disponibles!!</a></li>
+                <li><a href="servicios.html">Servicios</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Descripcion</th>
+                <th>Imagen</th>
+                <th>precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>The Norht Face Yellow</td>
+                <td><img src="imagenes/imagen1.jpg" alt="Imagen1"></td>
+                <td>$450.000</td>
+            </tr>
+            <tr>
+                <td>The North Face X Gucci</td>
+                <td> <img src="imagenes/imagen2.jpeg" alt="Imagen2"></td>
+                <td>$900.000</td>
+            </tr>
+            <tr>
+                <td>The North Face Black</td>
+                <td><img src="imagenes/imagen3.png" alt="Imagen3"></td>
+                <td>$300.000</td>
+             <tr>
+                 <td>Campera Boca Juniors</td>
+                <td><img src="imagenes/imagen5.png" alt="Imagen5"></td>
+                <td>$40.000</td>
+                </tr>
+                <tr>
+                    <td>Campera River Plate</td>
+                   <td><img src="imagenes/imagen6.png" alt="Imagen6"></td>
+                   <td>$40.000</td>
+                   </tr>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
