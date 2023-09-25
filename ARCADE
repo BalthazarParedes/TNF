@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de Tabla</title>
+    <link rel="stylesheet" href="estilos/estilos.css">	
+    
+</head>
+
+    <header class="main-header">
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="acercade.html">Camperas Disponibles!!</a></li>
+                <li><a href="servicios.html">Servicios</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+ 
+        <header1>
+          <h1></h1>
+        </header1>
+        <main1>
+          <div class="image-container">
+            <img src="imagenes/imagen1.jpg" alt="Imagen1">
+            <p>  Tejido antidesgarros brillante original para más durabilidad. Acabado DWR sin PFC para mayor protección. Plumón de ganso de 700 cuins con gran capacidad térmica y de compresión. Cámaras térmicas sobredimensionadas. Capucha de tres piezas integrada plegable que se guarda dentro del cuello.</p>
+          </div>
+        <main1>
+            <div class="image-container">
+            <img src="imagenes/imagen2.jpeg" alt="Imagen2">
+            <p>  La mejor colaboracion con GUCCI!! La campera mas excluvisa la encontras aca en nuestra tienda, echa con los materiales mas exclusivos.</p>
+          </div>
+        </main2>
+            <div class="image-container">
+            <img src="imagenes/imagen3.png" alt="Imagen3">
+            <p>Nuestro emblemático diseño Nuptse llega desde las pistas de esquí de los años 90 al entorno urbano. La campera plegable 1996 Retro Nuptse tiene una silueta holgada y geométrica, confeccionada en el tejido antidesgarros brillante del modelo original y cuenta con el mítico acolchado con secciones extragrandes y capucha plegable para que vayas abrigado y seco cuando hace frío y llueve.</p>
+           </div>
+        </main2>
+            <div class="image-container">
+            <img src="imagenes/imagen5.png" alt="imagen5">
+            <p>Corte clasico,cierre frontal y 70% de algodon,30% de poliester, para entrenar mucho mas comodo </p>
+           </div>
+        </main3>
+            <div class="image-container">
+            <img src="imagenes/imagen6.png" alt="imagen6">
+            <p>Corte clasico,cierre frontal y 70% de algodon,30% de poliester, para entrenar siempre al maximo.</p>
+          </div>
+        </main3>
+      </body>
+      </html>
+            
+</body>
+</html>
